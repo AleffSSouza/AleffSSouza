@@ -1,5 +1,11 @@
-### Hi there 👋
+ Hello, I'm Aleff Souza
+ 
+ <div>I'm young, but always learning new things and always open to new challenges
 
+ <div>I'm a student at Etec maria cristina medeiros, programmer, front-end developer
+
+   <div>
+     <div>
 <!--
 **AleffSSouza/AleffSSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
