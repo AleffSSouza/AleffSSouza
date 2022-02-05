@@ -1,8 +1,8 @@
  Hello, I'm Aleff Souza
  
- <div>I'm young, but always learning new things and always open to new challenges
+ <div>Sou jovem, mas sempre aprendendo coisas novas e sempre aberto a novos desafios
 
- <div>I'm a student at Etec maria cristina medeiros, programmer, front-end developer
+ <div>Sou estudante na Etec maria cristina medeiros, programador e desenvolvedora front-end
 
    <div>
      <div>
