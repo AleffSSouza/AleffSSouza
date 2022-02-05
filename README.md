@@ -9,3 +9,8 @@
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/aleffsouzaa_/">
  <img src="https://img.shields.io/badge/Instagram-e2725b?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+ 
+.🌎-ⓈⓅ/𝕊𝕒̃𝕠 ℙ𝕒𝕦𝕝𝕠
+.📌-16 𝓐𝓷𝓸𝓼
+
+<img src=![image](https://user-images.githubusercontent.com/64615837/152620314-b9051b28-8149-4994-8acf-957cbe3cfbad.png)/>
