@@ -14,4 +14,5 @@
 .📌-16 𝓐𝓷𝓸𝓼
 
 
-<img src= https://tenor.com/view/cars-lightning-mcqueen-drinking-drink-thirsty-gif-16159740/>
+<img src= ![image](https://user-images.githubusercontent.com/64615837/152620736-4a73ab23-6c11-4dd0-95f3-493512ff61eb.png)
+/>
