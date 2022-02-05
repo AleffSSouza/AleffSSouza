@@ -13,7 +13,5 @@
 .🌎-ⓈⓅ/𝕊𝕒̃𝕠 ℙ𝕒𝕦𝕝𝕠
 .📌-16 𝓐𝓷𝓸𝓼
 
-<div class="tenor-gif-embed" data-postid="16159740" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/cars-lightning-mcqueen-drinking-drink-thirsty-gif-16159740">Cars Lightning Mcqueen GIF</a>from <a href="https://tenor.com/search/cars-gifs">Cars GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-
-/>
+<img src= https://tenor.com/view/cars-lightning-mcqueen-drinking-drink-thirsty-gif-16159740/></a>
